@@ -1,0 +1,44 @@
+
+    .about__note {
+    padding: 69px 0 64px!important;
+}
+    .about__note {
+        padding: 69px 0 64px !important;
+        background-color: #363642!important;
+    }
+    .about__note .sec__head .sec__head--title {
+        color: #fff;
+        display: flex;
+        align-items: center;
+        margin-bottom: 30px;
+    }
+    .sec__head .sec__head--title .sec__head--title-arc {
+        flex: 1;
+        margin-left: 36px;
+        height: 1px;
+        display: block;
+        background-color: #D3D7E3;
+    }
+    .about__note .sec__head .sec__head--headline {
+        font-size: 15pt;
+        line-height: 1.4;
+        color: white;
+    }
+    .about__banner--bg {
+        align-items: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: left top;
+        left: 0;
+        top: 0;
+        height: 100%;
+        width: 100%;
+        filter: grayscale(1);
+
+    }
+
+
+    .about__banner h2 {
+        font-size: 36pt !important;
+        color: white;
+    }

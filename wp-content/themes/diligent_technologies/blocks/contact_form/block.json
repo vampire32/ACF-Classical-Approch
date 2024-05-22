@@ -1,0 +1,9 @@
+{
+    "name": "contact_block",
+    "title": "Contact",
+    "description": "A custom contact block.",
+    "category": "formatting",
+    "icon": "admin-comments",
+    "keywords": ["contact", "quote"],
+    "enqueue_style": "contact.css"
+}

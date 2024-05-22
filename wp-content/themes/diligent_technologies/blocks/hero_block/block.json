@@ -1,0 +1,9 @@
+{
+    "name": "hero_block",
+    "title": "Hero",
+    "description": "A custom hero block.",
+    "category": "formatting",
+    "icon": "admin-comments",
+    "keywords": ["hero", "quote"],
+    "enqueue_style": "hero.css"
+}
